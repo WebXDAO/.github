@@ -1,4 +1,4 @@
-![README_Org](https://user-images.githubusercontent.com/72812470/134735139-8dd74c7f-82b3-4a80-8e28-205ba04ce345.png)
+![Banner](https://user-images.githubusercontent.com/72812470/134735139-8dd74c7f-82b3-4a80-8e28-205ba04ce345.png)
 <br>
 <p align="center">
 <a href= "https://github.com/web3community/web3community.github.io/issues" alt = "Open-issues">
