@@ -14,14 +14,9 @@
 <img src="https://img.shields.io/twitter/follow/web3community?label=web3community&style=social" /></a>
 <a href="https://github.com/web3community/start-here" alt="License">
 <img src="https://img.shields.io/github/license/web3community/start-here.svg" /></a>
-<a href="https://github.com/web3community" alt="Meshery contributors">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/web3community/web3community.github.io"></a>
-<a href= "https://github.com/web3community" alt = "Closed-issues">
-  <img src = "https://img.shields.io/github/issues-closed-raw/web3community/web3community.github.io" target="blank" />
-</a>
 </p>
 
-[Web3Community](https://github.com/web3community) is a community that focus on Web 3, Blockchain, and somewhat related to decentralized applications (Dapp). Here you will learn how to become a blockchain developer while having fun with other community members. Blockchain Developer is an interesting field, in demand and the latest trend in the tech industry. Here you will get to interact with some great folks and learn blockchain technology together. This community is in its initial stage so you can show your leadership skills and help for everyone's success. Community is powered by [Dev Protocol](https://devprotocol.xyz/).
+[Web3Community](https://web3community.github.io/) is a community that focus on Web 3, Blockchain, and somewhat related to decentralized applications (Dapp). Here you will learn how to become a blockchain developer while having fun with other community members. Blockchain Developer is an interesting field, in demand and the latest trend in the tech industry. Here you will get to interact with some great folks and learn blockchain technology together. This community is in its initial stage so you can show your leadership skills and help for everyone's success. Community is powered by [Dev Protocol](https://devprotocol.xyz/).
 
 <p>
 <i>Not sure where to start?</i> Join our <a href="https://discord.gg/BHa8Xn9Cgf">Discord Server</a>
