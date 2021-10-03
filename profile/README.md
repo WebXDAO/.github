@@ -16,12 +16,13 @@
 <img src="https://img.shields.io/github/license/web3community/start-here.svg" /></a>
 </p>
 
-[Web3Community](https://web3community.github.io/) is a community that focus on Web 3, Blockchain, and somewhat related to decentralized applications (Dapp). Here you will learn how to become a blockchain developer while having fun with other community members. Blockchain Developer is an interesting field, in demand and the latest trend in the tech industry. Here you will get to interact with some great folks and learn blockchain technology together. This community is in its initial stage so you can show your leadership skills and help for everyone's success. Community is powered by [Dev Protocol](https://devprotocol.xyz/).
+<br>
+
+[Web3Community](https://web3community.github.io/) is a community that focus on Web 3, Blockchain, and somewhat related to decentralized applications (Dapp). Here you will learn how to become a blockchain developer while having fun with other community members. Blockchain Developer is an interesting field, in demand and the latest trend in the tech industry. Here you will get to interact with some great folks and learn blockchain technology together. This community is in its initial stage so you can show your leadership skills and help for everyone's success. The community is powered by [Dev Protocol](https://devprotocol.xyz/).
 
 <p>
-<i>Not sure where to start?</i> Join our <a href="https://discord.gg/BHa8Xn9Cgf">Discord Server</a>
+<p align="center"><i>Not sure where to start?</i> Join our <a href="https://discord.gg/BHa8Xn9Cgf">Discord Server</a></p>
 </p>
-
 
 ---
 
