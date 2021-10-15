@@ -4,7 +4,7 @@
 <a href= "https://github.com/web3community/web3community.github.io/issues" alt = "Open-issues">
   <img src = "https://img.shields.io/github/issues/web3community/web3community.github.io" target="blank" />
 </a>
-<a href="https://discord.gg/BHa8Xn9Cgf" alt="community-discord-server">
+<a href="https://discord.gg/TSRwqx4K2v" alt="community-discord-server">
    <img src="https://img.shields.io/discord/835424705410236427?logo=discord&?style=for-the-badge" target="blank" />
 </a>
 <a href= "https://github.com/web3community" alt = "Stars">
@@ -29,7 +29,7 @@
 
 <p align="center">Connect With Us</p>
 <p align="center"> 
-<a href="https://discord.gg/BHa8Xn9Cgf"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
+<a href="https://discord.gg/TSRwqx4K2v"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 &nbsp; 
 <a href="mailto:web3community@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-email-interface-kiranshastry-gradient-kiranshastry-1.png" height = "50px"/></a>
 &nbsp;
