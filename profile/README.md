@@ -31,7 +31,7 @@
 <p align="center"> 
 <a href="https://discord.gg/TSRwqx4K2v"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 &nbsp; 
-<a href="mailto:web3community@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-email-interface-kiranshastry-gradient-kiranshastry-1.png" height = "50px"/></a>
+<a href="mailto:web3opensourcecommunity@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-email-interface-kiranshastry-gradient-kiranshastry-1.png" height = "50px"/></a>
 &nbsp;
 <a href="https://twitter.com/web3community"><img src="https://img.icons8.com/office/48/000000/twitter.png"/></a>
 &nbsp;
