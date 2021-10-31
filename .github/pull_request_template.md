@@ -19,6 +19,7 @@ Example how to mark a checkbox:-
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Code style update (formatting, local variables)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Documentation update.
 - [ ] This change requires a documentation update
 
 ## How Has This Been Tested?
