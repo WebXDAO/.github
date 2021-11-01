@@ -23,7 +23,7 @@
 
 <br>
 <p>
-<p align="center"><i>Not sure where to start?</i> Join our <a href="https://discord.gg/BHa8Xn9Cgf">Discord Server</a></p>
+<p align="center"><i>Not sure where to start?</i> Join our <a href="https://discord.gg/TSRwqx4K2v">Discord Server</a></p>
 </p>
 
 ---
