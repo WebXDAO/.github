@@ -7,7 +7,7 @@ body:
     id: bugdescription
     attributes:
       label: Description of the bug
-      description: Provide a detailed description of the bug you''re encountering
+      description: "Provide a detailed description of the bug you're encountering"
     validations:
       required: true
   - type: textarea
