@@ -1,4 +1,3 @@
-![Happy Halloween](https://readme-typing-svg.herokuapp.com/?color=%23B15B4E&size=50&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%A7%9F%F0%9F%8E%83%F0%9F%95%B7%EF%B8%8F+Happy+Halloween+%F0%9F%95%B8%EF%B8%8F%F0%9F%8E%83%F0%9F%A7%9B)
 ![Banner](https://user-images.githubusercontent.com/72812470/134735139-8dd74c7f-82b3-4a80-8e28-205ba04ce345.png)
 <br>
 <p align="center">
