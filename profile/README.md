@@ -27,16 +27,15 @@
 
 ---
 
-<p align="center">Connect With Us</p>
+<p align="center"><strong>Connect With Us</strong></p>
 <p align="center"> 
-<a href="https://discord.gg/TSRwqx4K2v"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
-&nbsp; 
-<a href="mailto:web3opensourcecommunity@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-email-interface-kiranshastry-gradient-kiranshastry-1.png" height = "50px"/></a>
+<a href="https://discord.gg/TSRwqx4K2v"><img alt="discord_logo" 
+src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 &nbsp;
-<a href="https://twitter.com/web3community"><img src="https://img.icons8.com/office/48/000000/twitter.png"/></a>
+<a href="https://twitter.com/web3community"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 &nbsp;
-<a href="https://github.com/web3community"><img src="https://img.icons8.com/nolan/50/github.png"/></a>
+<a href="mailto:web3opensourcecommunity@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/company/web3community"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
+<a href="https://github.com/web3community"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
-</p>
+<a href="https://www.linkedin.com/company/web3community"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
