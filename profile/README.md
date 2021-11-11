@@ -27,7 +27,7 @@
 
 ---
 
-<p align="center"><strong>Connect With Us</strong></p>
+<p align="center"><strong>Connect with us</strong></p>
 <p align="center"> 
 <a href="https://discord.gg/TSRwqx4K2v"><img alt="discord_logo" 
 src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
