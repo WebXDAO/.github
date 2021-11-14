@@ -30,7 +30,7 @@
 <p align="center"><strong>Connect with us</strong></p>
 <p align="center"> 
 <a href="https://discord.gg/TSRwqx4K2v"><img alt="discord_logo" 
-src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
+src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="45px"/></a>
 &nbsp;
 <a href="https://twitter.com/web3community"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 &nbsp;
