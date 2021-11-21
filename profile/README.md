@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/discord/835424705410236427?logo=discord&?style=for-the-badge" target="blank" />
 </a>
 <a href= "https://github.com/web3community" alt = "Stars">
-  <img src = "https://img.shields.io/github/stars/web3community/blockchain-dev-path?style=social" target="blank" />
+  <img src = "https://img.shields.io/github/stars/web3community?style=social" target="blank" />
 </a>
 <a href="https://twitter.com/web3community" alt="Follow Web3Community on Twitter">
 <img src="https://img.shields.io/twitter/follow/web3community?label=Web3Community&style=social" /></a>
