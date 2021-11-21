@@ -11,7 +11,7 @@
   <img src = "https://img.shields.io/github/stars/web3community/blockchain-dev-path?style=social" target="blank" />
 </a>
 <a href="https://twitter.com/web3community" alt="Follow Web3Community on Twitter">
-<img src="https://img.shields.io/twitter/follow/web3community?label=web3community&style=social" /></a>
+<img src="https://img.shields.io/twitter/follow/web3community?label=Web3Community&style=social" /></a>
 <a href="https://github.com/web3community/start-here" alt="License">
 <img src="https://img.shields.io/github/license/web3community/start-here.svg" /></a>
 </p>
