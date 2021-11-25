@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&height=61&lines=Happy+thanksgiving+%E2%9C%A8)](https://git.io/typing-svg)
 ![Banner](https://user-images.githubusercontent.com/72812470/134735139-8dd74c7f-82b3-4a80-8e28-205ba04ce345.png)
 <br>
 <p align="center">
