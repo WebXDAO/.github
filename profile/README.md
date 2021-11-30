@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=900&height=100&lines=Happy+thanksgiving++everyone✨">
+<!-- <img src="https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=900&height=100&lines=Happy+thanksgiving++everyone✨"> -->
 
 
 ![Banner](https://user-images.githubusercontent.com/72812470/134735139-8dd74c7f-82b3-4a80-8e28-205ba04ce345.png)
