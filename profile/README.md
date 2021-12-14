@@ -9,7 +9,7 @@
   <img src = "https://img.shields.io/github/issues/web3community/web3community.github.io" target="blank" />
 </a>
 <a href="https://discord.gg/TSRwqx4K2v" alt="community-discord-server">
-   <img src="https://img.shields.io/discord/835424705410236427?logo=discord&?style=for-the-badge" target="blank" />
+   <img src="https://img.shields.io/discord/835424705410236427?logo=discord&?style=for-the-badge&colorB=5865F2" target="blank" />
 </a>
 <a href= "https://github.com/web3community" alt = "Stars">
   <img src = "https://img.shields.io/github/stars/web3community?style=social" target="blank" />
