@@ -38,7 +38,7 @@ src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40p
 &nbsp;
 <a href="https://twitter.com/web3community"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 &nbsp;
-<a href="https://www.instagram.com/web3community"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://instagram.com/web3community"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>
 &nbsp;
 <a href="mailto:web3opensourcecommunity@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 &nbsp;
