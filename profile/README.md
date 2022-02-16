@@ -32,7 +32,7 @@
 
 <p align="center"><strong>Connect with us</strong></p>
 <p align="center"> 
-<a href="https://discord.gg/TSRwqx4K2v"><img alt="discord_logo" 
+<a href="https://dsc.gg/webxdao"><img alt="discord_logo" 
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="45px"/></a>
 &nbsp;
 <a href="https://twitter.com/WebXDAO"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
