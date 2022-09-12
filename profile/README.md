@@ -1,7 +1,8 @@
 <!-- markdownlint-disable-next-line -->
 <!-- <img src="https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=900&height=100&lines=Happy+thanksgiving++everyone✨"> -->
 
-![Banner](https://user-images.githubusercontent.com/72812470/134735139-8dd74c7f-82b3-4a80-8e28-205ba04ce345.png)
+![Banner](https://user-images.githubusercontent.com/50140834/189691446-9c55acde-80c4-4967-bee3-3688f959f733.png)
+
 <br>
 <p align="center">
 <a href= "https://github.com/WebXDAO/WebXDAO.github.io/issues" alt = "Open-issues">
