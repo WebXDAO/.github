@@ -25,7 +25,7 @@
 
 <br>
 
-[WebXDAO](https://WebXDAO.github.io/) is a community that focuses on the future of the web. Here, members learn how to become blockchain developers while enjoying the company of other like-minded individuals. Blockchain development is an exciting and highly sought-after field, representing the latest trend in the tech industry. By joining this community, you will have the opportunity to engage with some great folks in the field and learn about blockchain technology together. Since the community is in its initial stages, there is ample room for you to demonstrate leadership skills and contribute to the success of everyone involved. The community is powered by [Dev Protocol](https://devprotocol.xyz/).
+[WebXDAO](https://WebXDAO.github.io/) is a community that focuses on the future of the web. Here, members learn how to become blockchain developers while enjoying the company of other like-minded individuals. Blockchain development is an exciting and highly sought-after field, representing the latest trend in the tech industry. By joining this community, you will have the opportunity to engage with some great folks in the field and learn about blockchain technology together. Since the community is in its initial stages, there is ample room for you to demonstrate leadership skills and contribute to the success of everyone involved. 
 
 <br>
 <p>
