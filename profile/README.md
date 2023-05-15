@@ -1,35 +1,34 @@
 <!-- markdownlint-disable-next-line -->
 <!-- <img src="https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=900&height=100&lines=Happy+thanksgiving++everyone✨"> -->
 
+<h1 align="center">Welcome to WebX Community <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px"></h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72812470/189705065-58fe76da-080b-4798-94fe-2400af2bbfa8.png" />
+  <img src="https://github.com/WebXDAO/.github/assets/73097560/54b04cbf-1d88-4cc1-9390-a829caa4c668">
 </p>
 
-<br>
 <p align="center">
-<a href= "https://github.com/WebXDAO/WebXDAO.github.io/issues" alt = "Open-issues">
-  <img src = "https://img.shields.io/github/issues/WebXDAO/WebXDAO.github.io" target="blank" />
+<a href="https://github.com/WebXDAO/WebXDAO.github.io/issues" alt="Open-issues">
+  <img src="https://img.shields.io/github/issues/WebXDAO/WebXDAO.github.io" />
 </a>
 <a href="https://discord.gg/TSRwqx4K2v" alt="community-discord-server">
-   <img src="https://img.shields.io/discord/835424705410236427?logo=discord&?style=for-the-badge&colorB=5865F2" target="blank" />
+   <img src="https://img.shields.io/discord/835424705410236427?logo=discord&?style=for-the-badge&colorB=5865F2" />
 </a>
-<a href= "https://github.com/WebXDAO" alt = "Stars">
-  <img src = "https://img.shields.io/github/stars/WebXDAO?style=social" target="blank" />
+<a href="https://github.com/WebXDAO" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/WebXDAO?style=social" />
 </a>
 <a href="https://twitter.com/WebXDAO" alt="Follow WebXDAO on Twitter">
-<img src="https://img.shields.io/twitter/follow/WebXDAO?label=WebXDAO&style=social" /></a>
+  <img src="https://img.shields.io/twitter/follow/WebXDAO?label=WebXDAO&style=social" />
+</a>
 <a href="https://github.com/WebXDAO/start-here" alt="License">
-<img src="https://img.shields.io/github/license/WebXDAO/start-here.svg" /></a>
+  <img src="https://img.shields.io/github/license/WebXDAO/start-here.svg" />
+</a>
 </p>
 
-<br>
+<p align="center">We're excited to have you join our open source projects! We truly believe that working together as a team is the key to our success. No matter your level of experience, we welcome contributions from everyone. We value the diverse perspectives and expertise that each individual brings to the table. By collaborating and sharing our knowledge, we can achieve great things. So, whether you're a beginner or an experienced developer, don't hesitate to get involved. Your contributions are important, and we're here to support you every step of the way. Let's work together and make a difference in the open source community!</p>
 
-[WebXDAO](https://WebXDAO.github.io/) is a community that focuses on the future of the web. Here, members learn how to become blockchain developers while enjoying the company of other like-minded individuals. Blockchain development is an exciting and highly sought-after field, representing the latest trend in the tech industry. By joining this community, you will have the opportunity to engage with some great folks in the field and learn about blockchain technology together. Since the community is in its initial stages, there is ample room for you to demonstrate leadership skills and contribute to the success of everyone involved. 
-
-<br>
 <p>
-<p align="center"><i>Not sure where to start?</i> Join our <a href="https://discord.gg/TSRwqx4K2v">Discord Server</a></p>
+<p align="center"><i>Not sure where to start?</i> Join our <a href="https://discord.webxdao.xyz/">Discord Server</a></p>
 </p>
 
 ---
