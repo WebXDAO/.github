@@ -61,7 +61,7 @@ Hey there! Get ready to jump into the awesome world of <b>open source projects</
 <a href="https://discord.webxdao.xyz/"><img alt="discord_logo" 
 src="https://img.shields.io/badge/Discord-411AFF?style=for-the-badge&logo=discord&logoColor=white"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://twitter.com/WebXDAO"> <img src="https://img.shields.io/badge/Twitter-411AFF?style=for-the-badge&logo=Twitter&logoColor=white" />
+<a href="https://twitter.com/WebXDAO"> <img src="https://img.shields.io/badge/Twitter-411AFF?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://instagram.com/WebXDAO"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instragram&logoColor=white" /></a>
